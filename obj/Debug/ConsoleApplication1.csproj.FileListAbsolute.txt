@@ -1,0 +1,18 @@
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\mateusz\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\PO1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mateusz\Desktop\PO1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\PO1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\PO1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\PO1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\PO1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\LAB 1-2\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Mateusz\Desktop\LAB 1-2\obj\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\LAB 1-2\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\LAB 1-2\bin\Debug\ConsoleApplication1.exe
+C:\Users\Mateusz\Desktop\LAB 1-2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Mateusz\Desktop\LAB 1-2\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
